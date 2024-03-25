@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-rtkquery/static/css/main.e6c13ad2.css",
+    "main.js": "/react-rtkquery/static/js/main.aac2abdb.js",
+    "index.html": "/react-rtkquery/index.html",
+    "main.e6c13ad2.css.map": "/react-rtkquery/static/css/main.e6c13ad2.css.map",
+    "main.aac2abdb.js.map": "/react-rtkquery/static/js/main.aac2abdb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.aac2abdb.js"
+  ]
+}
